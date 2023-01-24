@@ -1,6 +1,6 @@
 Tabuada do 1:
 
-Final da tabela
+Inicio da tabela
 1x1 = 1
 1x2 = 2
 1x3 = 3
